@@ -3,9 +3,10 @@ body {
   max-width: 1024px;
   margin: 0 auto;
   padding: 20px 0;
-  /* border: 0.5px solid black */
 }
 
 .cvimg {
   border: 0.5px solid black;
+  width: 100%;
+  height: auto;
 }
